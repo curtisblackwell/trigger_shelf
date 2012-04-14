@@ -17,5 +17,5 @@ Hit **ctrl + alt + t** to show and focus on Trigger.
 Thanks
 ------
 
-Parse19				- [Trigger](http://parse19.com/trigger/)
-Tzury Bar Yochay	- [jQuery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)
+* Parse19				- [Trigger](http://parse19.com/trigger/)
+* Tzury Bar Yochay	- [jQuery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)
