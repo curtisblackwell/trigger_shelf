@@ -12,7 +12,7 @@ Upload the **trigger\_shelf** folder to **system/expressionengine/third\_party**
 Usage
 -----
 
-Hit **ctrl + alt + t** to show and focus on Trigger.
+Hit `ctrl + alt + t` to show and focus on Trigger.
 
 Thanks
 ------
