@@ -6,17 +6,17 @@ cpb Trigger Shelf is an ExpressionEngine 2 accessory that makes Parse19's Trigge
 Installation
 ------------
 
-* Upload the **trigger\_shelf** folder to **system/expressionengine/third\_party**
-* Enable the accessory in the CP
+1. Upload the `trigger_shelf` folder to `system/expressionengine/third_party`
+2. Enable the accessory in the CP
 
 
 Usage
 -----
 
-Hit **ctrl + alt + t** to show and focus on Trigger.
+Hit **ctrl + alt + t** to toggle visibility of and focus on Trigger.
 
 Thanks
 ------
 
-Parse19				- [Trigger](http://parse19.com/trigger/)
-Tzury Bar Yochay	- [jQuery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)
+* Parse19			- [Trigger](http://parse19.com/trigger/)
+* Tzury Bar Yochay	- [jQuery.hotkeys](https://github.com/tzuryby/jquery.hotkeys)
