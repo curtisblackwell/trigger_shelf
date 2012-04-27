@@ -6,8 +6,8 @@ cpb Trigger Shelf is an ExpressionEngine 2 accessory that makes Parse19's Trigge
 Installation
 ------------
 
-1. Upload the `trigger_shelf` folder to `system/expressionengine/third_party`
-2. Enable the accessory in the CP
+1. Upload the `trigger_shelf` folder to `system/expressionengine/third_party`.
+2. Enable the accessory in the CP.
 
 
 Usage
