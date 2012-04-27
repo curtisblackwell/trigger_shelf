@@ -26,5 +26,4 @@ if (! defined('TRIGGER_SHELF_V')) {
 
 $config['name']									= TRIGGER_SHELF_NAME;
 $config['version']								= TRIGGER_SHELF_V;
-//$config['nsm_addon_updater']['versions_xml']	= 'http://curtisblackwell.com/expressionengine-add-ons/rss_steak_sauce';
 ?>
