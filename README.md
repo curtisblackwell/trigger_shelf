@@ -1,7 +1,7 @@
-cpb Trigger Shelf
-===============
+Trigger Shelf
+===========
 
-cpb Trigger Shelf is an ExpressionEngine 2 accessory that makes Parse19's Trigger accessible via a keyboard shortcut.
+Trigger Shelf is an ExpressionEngine 2 accessory that makes Parse19's Trigger accessible via a keyboard shortcut.
 
 Installation
 ------------
